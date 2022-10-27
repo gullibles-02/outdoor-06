@@ -1,10 +1,16 @@
 {
-  "name": "gAiHz1Yb0wBPyomc5FBOi34TKXzfOBdQN7kOwYpGQdRNJsv6hO",
+  "name": "หวยปิงปอง ออก เลือกยังไง - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "หวยปิงปอง ออก ผลหวยหุ้นนิเคอิรอบเช้า ได้แก่ หวยปิงปอง ออก 999Lucky หวยออนไลน์ อันดับหนึ่ง ตั้งแต่วันที่ 27 มกราคม จนถึงวันที่ 14 มกราคม 2566ผลหวยหุ้นนิเคอิ",
   "repository": "https://github.com/gullibles-02/outdoor-06",
-  "keywords": ["หวยปิงปอง ออก","หวยปิงปอง","ออก","หวยปิงปอง 999Lucky","ออก 999Lucky"],
+  "keywords": [
+    "หวยปิงปอง ออก",
+    "หวยปิงปอง",
+    "ออก",
+    "หวยปิงปอง 999Lucky",
+    "ออก 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
