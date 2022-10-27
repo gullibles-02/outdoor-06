@@ -1,10 +1,16 @@
 {
-  "name": "GoNhrllvQFDSJwHdRMBpOcIRke53XjrpBUiY5AvaYLYg8h3ro0",
+  "name": "chok โชค แตกต่างกันอย่างไร - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.18",
   "description": "Chok โชค นักเสี่ยงโชคทั้งหลาย เนื่องจาก Chok โชค Choke หวยออนไลน์ อันดับหนึ่ง สามารถติดตาม ผลหวยลาววันนี้ ถ่ายทอดสด หรือจะดู Chok โชค หวยลาวย้อนหลัง ที่เว็",
   "repository": "https://github.com/gullibles-02/outdoor-06",
-  "keywords": ["CHOK โชค","CHOK","โชค","CHOK Choke","โชค Choke"],
+  "keywords": [
+    "CHOK โชค",
+    "CHOK",
+    "โชค",
+    "CHOK Choke",
+    "โชค Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
