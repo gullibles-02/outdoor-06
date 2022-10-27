@@ -1,0 +1,12 @@
+{
+  "name": "mvXNLYVnyiyQ3azbJCOFLfOKw05qFg6Y5APRUvkXEzBOGjgejh",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "ผีน้อย กบไชโย จิงโจ้ หากเราเล่นไปเรื่อยๆแล้วมีกำไรเรื่อยๆแบบนี้คงจะดีใช่ไหมครับ โดย ผีน้อย กบไชโย จิงโจ้ Huay หวย หวยออนไลน์ มีหวยทุกชนิด แต่นั่นแหละใครจะถ",
+  "repository": "https://github.com/gullibles-02/outdoor-06",
+  "keywords": ["ผีน้อย กบไชโย จิงโจ้","ผีน้อย","กบไชโย","จิงโจ้","ผีน้อย Huay","กบไชโย Huay","จิงโจ้ Huay"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
