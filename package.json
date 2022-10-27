@@ -1,10 +1,13 @@
 {
-  "name": "jEiKC6ozZkqyW7ausrdbY67tnrKD6Ji0RzcVeXQhQZJAsSKRdN",
+  "name": "สถิติหวยออกปี64 ได้อย่างไร - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.33",
   "description": "สถิติหวยออกปี64 สำหรับ ถึง สถิติหวยออกปี64 ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง เฮียบิ๊ก ล้มโต๊ะ เรียกได้ว่าเป็นความหวังของนักเสี่ยงโชคทั้งหลาย โดยเมื่อผ่าน",
   "repository": "https://github.com/gullibles-02/outdoor-06",
-  "keywords": ["สถิติหวยออกปี64","สถิติหวยออกปี64 Ruay"],
+  "keywords": [
+    "สถิติหวยออกปี64",
+    "สถิติหวยออกปี64 Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
