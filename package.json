@@ -1,10 +1,22 @@
 {
-  "name": "FD068nIQ7jwHMj9DVyWEOBLnHLvQgRB3QE69q5wNE6bD40R1HS",
+  "name": "หวยลาว ส ตา ร์ วันนี้สด มีคำตอบ - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.22",
   "description": "หวยลาว ส ตา ร์ วันนี้สด ได้แนวทางเลขเด็ดจากเจ๊นุ๊กกันแล้ว ได้แก่ หวยลาว ส ตา ร์ วันนี้สด ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง เลขครั้งนี้ได้มาแล้ว ต้อง",
   "repository": "https://github.com/gullibles-02/outdoor-06",
-  "keywords": ["หวยลาว ส ตา ร์ วันนี้สด","หวยลาว","ส","ตา","ร์","วันนี้สด","หวยลาว Thailotto","ส Thailotto","ตา Thailotto","ร์ Thailotto","วันนี้สด Thailotto"],
+  "keywords": [
+    "หวยลาว ส ตา ร์ วันนี้สด",
+    "หวยลาว",
+    "ส",
+    "ตา",
+    "ร์",
+    "วันนี้สด",
+    "หวยลาว Thailotto",
+    "ส Thailotto",
+    "ตา Thailotto",
+    "ร์ Thailotto",
+    "วันนี้สด Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
