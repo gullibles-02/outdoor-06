@@ -1,10 +1,16 @@
 {
-  "name": "ttuUlqkHYnGXKdNILG6XhAZiq6WXVSsZQFu7tFA5J2gmqBS3uK",
+  "name": "เลขเด็ดงวดนี้ ไทยรัฐ แตกต่างกันอย่างไร - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.41",
   "description": "เลขเด็ดงวดนี้ ไทยรัฐ ดูบอลสด กับ เลขเด็ดงวดนี้ ไทยรัฐ ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง แมนยู ดูบอลสด แมนยู Vs เวสต์แฮม ดูบอลสด แมนยู พบ เวสต์แฮม ดู",
   "repository": "https://github.com/gullibles-02/outdoor-06",
-  "keywords": ["เลขเด็ดงวดนี้ ไทยรัฐ","เลขเด็ดงวดนี้","ไทยรัฐ","เลขเด็ดงวดนี้ Thailotto","ไทยรัฐ Thailotto"],
+  "keywords": [
+    "เลขเด็ดงวดนี้ ไทยรัฐ",
+    "เลขเด็ดงวดนี้",
+    "ไทยรัฐ",
+    "เลขเด็ดงวดนี้ Thailotto",
+    "ไทยรัฐ Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
