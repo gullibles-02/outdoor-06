@@ -1,10 +1,13 @@
 {
-  "name": "1DCRlIdrvkau918jx3AIaoXYkzlkb4GnghcSkbWnkj0O74RWep",
+  "name": "เปิดตลาดหุ้นวันนี้ ดูที่ไหน - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.9",
   "description": "เปิดตลาดหุ้นวันนี้ ในการออกผลหวยหุ้น แต่ เปิดตลาดหุ้นวันนี้ Huay หวย หวยออนไลน์ มีหวยทุกชนิด จะนำเลขหลักหน่วยและจุดทศนิยมของ ค่า Value มาออกรางวัล เปิดตลาด",
   "repository": "https://github.com/gullibles-02/outdoor-06",
-  "keywords": ["เปิดตลาดหุ้นวันนี้","เปิดตลาดหุ้นวันนี้ Huay"],
+  "keywords": [
+    "เปิดตลาดหุ้นวันนี้",
+    "เปิดตลาดหุ้นวันนี้ Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
