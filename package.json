@@ -1,10 +1,13 @@
 {
-  "name": "3HapNBLaVe7huznTrbAGrp5TYGYMlA3rIaIitq0B7DgmQvac1V",
+  "name": "สถิติหวยสิงคโปร์4d เลือกยังไง - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.71",
   "description": "สถิติหวยสิงคโปร์4d เลขเด็ดงวดนี้ ดั่ง สถิติหวยสิงคโปร์4d ที่ Huay เว็บหวยออนไลน์ อันดับหนึ่ง ขอนำเสนอชุดเลขจาก หวยคู่ชุดรวย 1362 งวดที่แล้วเข้า 2 ตัวโต๊ด ด",
   "repository": "https://github.com/gullibles-02/outdoor-06",
-  "keywords": ["สถิติหวยสิงคโปร์4D","สถิติหวยสิงคโปร์4D Huay"],
+  "keywords": [
+    "สถิติหวยสิงคโปร์4D",
+    "สถิติหวยสิงคโปร์4D Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
