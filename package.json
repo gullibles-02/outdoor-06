@@ -1,16 +1,10 @@
 {
-  "name": "หุ้น egx30 ที่ไหน - เว็บใหม่ huay happy 2023 ล่าสุด",
+  "name": "aFdkupQh7x9Gg1Rv7HD2UJmB2UnqvO1cCRm3W0gGBJY14pE447",
   "theme": "syntax",
   "version": "1.0.73",
   "description": "หุ้น EGX30 ได้แนวทางเลขเด็ดแม่น้ำหนึ่งกันแล้ว ถึง หุ้น EGX30 ที่ Huay Happy เว็บหวยออนไลน์ อันดับหนึ่ง ดูแล้วรีบหาซื้อล็อตเตอร์รี่ออนไลน์ หรือหาซื้อหวยออนไ",
   "repository": "https://github.com/gullibles-02/outdoor-06",
-  "keywords": [
-    "หุ้น EGX30",
-    "หุ้น",
-    "EGX30",
-    "หุ้น Huay Happy",
-    "EGX30 Huay Happy"
-  ],
+  "keywords": ["หุ้น EGX30","หุ้น","EGX30","หุ้น Huay Happy","EGX30 Huay Happy"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
