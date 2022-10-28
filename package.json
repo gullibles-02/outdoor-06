@@ -1,13 +1,10 @@
 {
-  "name": "หวยรัสเซียออกอะไร สรุปว่าอะไร - เว็บใหม่ huaysod 2023 ล่าสุด",
+  "name": "nr0HZkFewiyC8Exp5gFWhGuHebP2dw625LIVqp7CyWRE4FjO5u",
   "theme": "syntax",
   "version": "1.0.79",
   "description": "หวยรัสเซียออกอะไร หวยไทยรัฐ แม้น หวยรัสเซียออกอะไร Huaysod หวยสด หวยออนไลน์ มีหวยทุกชนิด เป็นชุดตารางเลขเด่นที่มีรูปแบบคล้ายกันกับ หวยอาจารย์ธีระเดช 1762 ช",
   "repository": "https://github.com/gullibles-02/outdoor-06",
-  "keywords": [
-    "หวยรัสเซียออกอะไร",
-    "หวยรัสเซียออกอะไร Huaysod"
-  ],
+  "keywords": ["หวยรัสเซียออกอะไร","หวยรัสเซียออกอะไร Huaysod"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
